@@ -1,1 +1,2 @@
-import pycurl
+import speech_recognition
+import os
